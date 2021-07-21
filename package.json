@@ -1,0 +1,17 @@
+{
+  "name": "mytheme",
+  "version": "1.0.0",
+  "description": "Just a theme of wordpress",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx mix watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "laravel-mix": "^6.0.25",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.35.2",
+    "sass-loader": "^12.1.0"
+  }
+}
